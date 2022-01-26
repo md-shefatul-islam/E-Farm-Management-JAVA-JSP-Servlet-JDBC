@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/crop/croplist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/crop" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/crop/insert.jsp" value="file://$PROJECT_DIR$/src/main/webapp/crop" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/farmer/alluser.jsp" value="file://$PROJECT_DIR$/src/main/webapp/farmer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/farmer/changepassword.jsp" value="file://$PROJECT_DIR$/src/main/webapp/farmer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/farmer/editprofile.jsp" value="file://$PROJECT_DIR$/src/main/webapp/farmer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/farmer/profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp/farmer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/home/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/home" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/navbar.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/croplist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/order.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/page.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/question/allquestion.jsp" value="file://$PROJECT_DIR$/src/main/webapp/question" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/request/farmerpendinglist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/request" />
+      </map>
+    </option>
+  </component>
+</project>
